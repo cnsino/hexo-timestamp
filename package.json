@@ -1,0 +1,24 @@
+{
+  "name": "hexo-timestamp",
+  "version": "1.0.0",
+  "description": "format title in the hexo blog into type of timestamp",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnsino/hexo-timestamp.git"
+  },
+  "keywords": [
+    "hexo",
+    "timestamp",
+    "hexo-plugins"
+  ],
+  "author": "taissan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnsino/hexo-timestamp/issues"
+  },
+  "homepage": "https://github.com/cnsino/hexo-timestamp#readme"
+}
