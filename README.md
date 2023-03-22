@@ -1,5 +1,5 @@
 # hexo-timestamp
-
+针对https://github.com/hluglk/hexo-number-title，做了一些修改
 ### INSTALL
 ```bash
 # npm
